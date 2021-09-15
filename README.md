@@ -10,7 +10,7 @@ Questions, comments, feedback, etc. - please e-mail me (evans36-at-uwm-dot-edu).
 These Notebooks were developed using Python 3.7.3 and the following packages (plus their required dependencies):
 
 <ul>
-  <li>cartopy 0.17</li>
+  <li>cartopy 0.17</li> - <b>(9/15/21)</b>: due to a change in where the NaturalEarth features are hosted, Cartopy 0.19.post1 or later are required unless you already have the NaturalEarth features at the specified resolutions.
   <li>matplotlib 3.4.2</li>
   <li>metpy 0.12.2</li>
   <li>netcdf4 1.5.1.2</li>
